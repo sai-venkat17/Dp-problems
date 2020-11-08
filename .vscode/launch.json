@@ -11,7 +11,7 @@
             "program": "frog1.cpp",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${workspaceFolder}",
+            "cwd": "${workspaceFolder}/a.exe",
             "environment": [],
             "externalConsole": false
         }
