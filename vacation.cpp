@@ -1,4 +1,5 @@
 //link https://atcoder.jp/contests/dp/tasks/dp_c
+//2 Dimensional dynamic programming
 #include<iostream>
 #include<vector>
 #include<cmath>
