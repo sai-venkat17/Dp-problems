@@ -7,6 +7,7 @@ int main()
 	int i,j,n,k,temp,c;
 	vector<int>a;
 	cin>>n;
+	
 	cin>>k;
 	for(i=0;i<n;i++)
 	{
