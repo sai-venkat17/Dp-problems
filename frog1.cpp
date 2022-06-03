@@ -1,5 +1,6 @@
 //problem link
 // https://atcoder.jp/contests/dp/tasks/dp_a
+//1D dp
 #include<iostream>
 #include<cmath>
 #include<vector>
